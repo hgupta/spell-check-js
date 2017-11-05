@@ -1,0 +1,8 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 7
+  },
+  "rules": {
+    "max-len": [2, 80, 2]
+  }
+}
