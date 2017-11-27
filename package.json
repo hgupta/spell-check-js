@@ -5,8 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/hgupta/spell-check-js.git",
   "author": "Harsh Gupta <1045588+hgupta@users.noreply.github.com>",
+  "scripts": {
+    "test": "mocha"
+  },
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^4.10.0"
+    "eslint": "^4.10.0",
+    "mocha": "^4.0.1"
   }
 }
